@@ -1,0 +1,1 @@
+{"Data":{"Balance":[{"AccountId":"5f186fcc02f4ba3bfa0a15d1","Amount":{"Amount":"6645.01","Currency":"BRL"},"CreditDebitIndicator":"Credit","Type":"Expected","DateTime":"2020-07-25T19:27:25.773Z"}]},"Links":{"Self":"https://rs2.tecban-sandbox.o3bank.co.uk/open-banking/v3.1/aisp/accounts/5f186fcc02f4ba3bfa0a15d1/balances"},"Meta":{"TotalPages":1}}

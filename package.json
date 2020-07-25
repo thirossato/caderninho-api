@@ -1,0 +1,19 @@
+{
+  "name": "caderninho-api",
+  "version": "1.0.0",
+  "description": "Api for solution that helps user to improve their financial health",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirossato/caderninho-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thirossato/caderninho-api/issues"
+  },
+  "homepage": "https://github.com/thirossato/caderninho-api#readme"
+}
